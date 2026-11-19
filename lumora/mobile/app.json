@@ -1,0 +1,2 @@
+{ "expo": { "name": "LUMORA", "slug": "lumora", "version": "0.1.0", "orientation": "portrait", "userInterfaceStyle": "automatic",
+  "android": { "package": "pk.lumora.app" }, "plugins": ["expo-secure-store"] } }

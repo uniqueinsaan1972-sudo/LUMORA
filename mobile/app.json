@@ -1,0 +1,4 @@
+{ "expo": { "name": "LUMORA", "slug": "lumora", "version": "0.2.0", "orientation": "portrait", "userInterfaceStyle": "dark",
+  "icon": "./assets/icon.png", "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#050a1c" },
+  "android": { "package": "pk.lumora.app", "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#050a1c" } },
+  "web": { "favicon": "./assets/favicon.png" }, "plugins": ["expo-secure-store"] } }
